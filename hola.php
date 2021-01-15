@@ -1,4 +1,4 @@
 <?php
 echo "¡Hola mundo!";
-echo "Mi hermano es pequeño";
+echo "Tengo tres hermanos";
 ?>
